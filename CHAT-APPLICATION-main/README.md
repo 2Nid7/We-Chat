@@ -202,5 +202,5 @@ Have questions or feedback? Reach out:
 ```markdown
 ## Contact
 
-- Email: adarshnampalli71@gmail.com
+- Email: tirupathinaidukommi2003@gmail.com
 
